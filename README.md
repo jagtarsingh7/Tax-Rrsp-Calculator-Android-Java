@@ -9,7 +9,7 @@
 	<li>Calculates taxes based on user input</li>
 	<li>Supports different tax brackets and deduction options</li>
 	<li>Follows the MVC pattern for clean and organized code</li>
-	<li>Stores user data in a SQLite database for easy retrieval</li>
+	<li>Stores user data in a SharedPreferences for easy retrieval</li>
 </ul>
 
 <h2>Requirements</h2>
